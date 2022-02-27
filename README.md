@@ -1,5 +1,3 @@
-README.md
-
 # [Mixed Spatio-Temporal Neural Networks on Real-time Prediction of Crimes](https://ieeexplore.ieee.org/document/9679984)
 
 This is the place for code base of the publised paper above.
