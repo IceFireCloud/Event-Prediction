@@ -1,0 +1,15 @@
+{
+  "vit":{
+    "metric":               "Standard",
+    "metric1":               "Cus",
+    "batch_size":           5,
+    "train_epochs":         500,
+    "lr":                   0.01,
+    "dropout":              0.25,
+    "emsize":               300,
+    "nhead":                12,
+    "dim_feedforward":      50,
+    "nlayers":              2,
+    "out_dim":              256
+  }
+}

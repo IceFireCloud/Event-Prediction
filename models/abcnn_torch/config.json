@@ -1,0 +1,24 @@
+{
+    "ABCNN_1D": 
+    {
+        "epochs": 100,
+        "root": "/scratch2/xzhou/ep/LA_crime/results/CNN/",
+        "lr": 0.001,
+        "dropout": 0.5,
+        "conv_layers": 2,
+        "num_filters": 50,
+        "l1_reg": 0.001,
+        "datapath": "/scratch/xzhou/ep/LA_crime/data/Block_Columns.csv",
+        "in_channel": 168
+    },
+    "ABCNN_2D":
+    {
+        "epochs": 60,
+        "root": "/scratch2/xzhou/ep/LA_crime/results/CNN/",
+        "lr": 0.001,
+        "dropout": 0.5,
+        "conv_layers": 2,
+        "num_filters": 50,
+        "l1_reg": 0.001
+    }
+}
