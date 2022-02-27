@@ -2,62 +2,22 @@ README.md
 
 Created: 6/3/2019
 
-Last modified: 6/3/2019
+Last modified: 2/26/2022
 
-# Code Correction
+# Mixed Spatio-Temporal Neural Networks on Real-time Prediction of Crimes
 
-This is the place for project - Event Prediction
+This is the place for code base of the publised paper above.
 
-Goal: to predict stock prices' trend/ to predict crimes
+Conference: ICMLA (2021)
 
-Conference: GlobalSip (6/17/2019) | AAAI (TBD)
+Due to the long-term development (2017~2021) and multiple changes of leadership, we have several different environments for the developed networks and models, which range from a relatively old platform (i.e. tensorflow version @ ~2017) to a more up-to-current framework (i.e. pytorch version @ ~2021). Therefore, please assume different environments for different models, and check the code before actually run it.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+For now, we directly provide the original source files. However, this repo will be updated and reformed to provide a more user friendly entrance.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
 
 ```
 Envorinment: Linux, with GPU available
 Programming Language: python3
 Framework: pytorch, tensorflow
 ```
-
-### Installing
-
-```
-N/A
-```
-
-```
-to be finished
-```
-
-## Testing
-
-```
-to be finished
-```
-
-## Authors
-
-* **Xiao Zhou** - *Initial work* - [IceFireCloud](https://github.com/IceFireCloud)
-
-* **Gavin Brown** - *Initial work* - [uname](https://github.com/)
-
-* **Xiao Wang** - *Initial work* - [uname](https://github.com/)
-
-* **ChengChen Wang** - *Initial work* - [rexwangcc](https://github.com/rexwangcc)
-
-See also the list of [contributors](https://github.com/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the _ License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-[template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
