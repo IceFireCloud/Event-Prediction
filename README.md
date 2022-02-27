@@ -1,9 +1,5 @@
 README.md
 
-Created: 6/3/2019
-
-Last modified: 2/26/2022
-
 # [Mixed Spatio-Temporal Neural Networks on Real-time Prediction of Crimes](https://ieeexplore.ieee.org/document/9679984)
 
 This is the place for code base of the publised paper above.
